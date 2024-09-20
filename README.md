@@ -24,4 +24,26 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
-[01-Dataset.xlsx](https://github.com/faguil/Type3-Copper-Protein-Evolution/blob/main/01-Dataset.xlsx) contains the list of accession numbers, genome localisation and protein nomenclature used in this study.
+[01-Lepidodermella-microRNAs.txt](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/01-Lepidodermella-microRNAs.txt) contains 52 predicted miRNAs in *Lepidodermella squamata*.
+
+[02-Lepidodermella-piRNA-cluster1.pdf](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/02-Lepidodermella-piRNA-cluster1.pdf) contains *Lepidodermella squamata* piRNA cluster 1 along with its genomic coordinates.
+
+[03-Lepidodermella-piRNA-cluster2.pdf](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/03-Lepidodermella-piRNA-cluster2.pdf) contains *Lepidodermella squamata* piRNA cluster 2 along with its genomic coordinates.
+
+[04-Lepidodermella-piRNA-cluster3.pdf](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/04-Lepidodermella-piRNA-cluster3.pdf) contains *Lepidodermella squamata* piRNA cluster 3 along with its genomic coordinates.
+
+[05-Lepidodermella-piRNA-cluster4.pdf](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/05-Lepidodermella-piRNA-cluster4.pdf) contains *Lepidodermella squamata* piRNA cluster 4 along with its genomic coordinates.
+
+[06-PAZ-and-PIWI-domain-alignments.pdf](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/06-PAZ-and-PIWI-domain-alignments.pdf) contains the PAZ and PIWI domain sequence alignments along with their consensus sequence logos.
+
+[07-Celegans-RNAi-proteins-repertoire.docx](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/07-Celegans-RNAi-proteins-repertoire.docx) contains a curated set of 65 RNA proteins from *C. elegans* used for reciprocal Blast searches.
+
+[08-RNAi-proteins-metazoans-gastrotrichs.xlsx](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/08-RNAi-proteins-metazoans-gastrotrichs.xlsx) contains the RNAi proteins identified in metazoan predicted proteomes and gastrotrich transcriptomes.
+
+[09-PIWI-like-proteins-metazoans-gastrotrichs.docx](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/09-PIWI-like-proteins-metazoans-gastrotrichs.docx) contains the PIWI-like proteins identified in metazoan predicted proteins and gastrotrich transcriptomes.
+
+[10-Metazoan-genomes.docx](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/10-Metazoan-genomes.docx) contains the list of metazoan genomes used for RNAi protein survey.
+
+[11-Gastrotrich-transcriptomes.docx](https://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/11-Gastrotrich-transcriptomes.docx) contains the list of gastrotrich transcriptomes used for RNAi protein survey.
+
+[12-List-species-PIWI-like-phylogenetic-tree.doc](xhttps://github.com/faguil/Small-Non-Coding-RNAs-Lepidodermella/blob/main/12-List-species-PIWI-like-phylogenetic-tree.docx) contains the list of protostome genomes and gastrotrich transcriptomes used for PIWI-like phylogenetic analysis.
