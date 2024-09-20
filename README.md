@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Evolutionary Implications of the microRNA- and piRNA Complement of *Lepidodermella squamata* (Gastrotricha).** Daniel Thiel, Mirita Franz-Wachtel, Felipe Aguilera, Andreas Hejnol. *Molecular Biology and Evolution* **35**:2528-2543 (2018). https://doi.org/10.1093/molbev/msy160
+**Evolutionary Implications of the microRNA- and piRNA Complement of *Lepidodermella squamata* (Gastrotricha).** Bastian Fromm, Juan Pablo Tosar, Felipe Aguilera, Marc R. Friedländer, Lutz Bachmann, Andreas Hejnol. *non-coding RNA* **5**:19 (2019). https://doi.org/10.3390/ncrna5010019
 
 **Abstract**
 
